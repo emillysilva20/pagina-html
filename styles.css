@@ -1,5 +1,5 @@
 body {
-color: rgb(247, 247, 247);
+color: rgb(8, 0, 0);
 background: rgb(0, 0, 0);
 }
 
@@ -8,4 +8,7 @@ header {
     padding: 15px;
     font-size: 22px;
     color: rgb(255, 255, 255);
+}
+section{
+    background-color: rgb(255, 255, 255);
 }
